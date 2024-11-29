@@ -1,2 +1,2 @@
 # TinDog-
-Build a dating sites for Dogs
+Built a dating sites for Dogs
